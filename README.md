@@ -19,7 +19,7 @@ AP - 16<br>
 RR - 15<br>
 DF - 1<br>
 <hr>
-<code>
+```json
 [
   'Marechal Thaumaturgo - AC',
   'São Miguel dos Milagres - AL',
@@ -49,7 +49,7 @@ DF - 1<br>
   'Euclides da Cunha Paulista - SP',
   'Santa Terezinha do Tocantins - TO'
 ]
-
+```
 Cidade com o maior nome do Brasil: Barro Preto (antigo Gov. Lomanto Jr.) - BA
 <hr>
 [
