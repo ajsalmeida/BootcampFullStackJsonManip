@@ -27,12 +27,12 @@ Você pode usar a função criada no tópico 2. Exemplo de impressão: [“UF - 
 cada estado, seguida de seu UF. Por exemplo: [“Nome da Cidade – UF”, “Nome da
 Cidade – UF”, ...].
 
-()Criar um método que imprima no console um array com a cidade de menor nome
+(ok)Criar um método que imprima no console um array com a cidade de menor nome
 de cada estado, seguida de seu UF. Por exemplo: [“Nome da Cidade – UF”, “Nome
 da Cidade – UF”, ...].
 
-()Criar um método que imprima no console a cidade de maior nome entre todos os
+(ok)Criar um método que imprima no console a cidade de maior nome entre todos os
 estados, seguido do seu UF. Exemplo: “Nome da Cidade - UF".
 
-()Criar um método que imprima no console a cidade de menor nome entre todos os
+(ok)Criar um método que imprima no console a cidade de menor nome entre todos os
 estados, seguido do seu UF. Exemplo: “Nome da Cidade - UF".
