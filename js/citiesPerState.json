@@ -1,0 +1,110 @@
+[
+    {
+        "name": "CE",
+        "quantOfCities": 184
+    },
+    {
+        "name": "DF",
+        "quantOfCities": 1
+    },
+    {
+        "name": "MT",
+        "quantOfCities": 141
+    },
+    {
+        "name": "RJ",
+        "quantOfCities": 92
+    },
+    {
+        "name": "RN",
+        "quantOfCities": 167
+    },
+    {
+        "name": "RO",
+        "quantOfCities": 52
+    },
+    {
+        "name": "RR",
+        "quantOfCities": 15
+    },
+    {
+        "name": "RS",
+        "quantOfCities": 496
+    },
+    {
+        "name": "AP",
+        "quantOfCities": 16
+    },
+    {
+        "name": "AC",
+        "quantOfCities": 22
+    },
+    {
+        "name": "AM",
+        "quantOfCities": 62
+    },
+    {
+        "name": "MS",
+        "quantOfCities": 78
+    },
+    {
+        "name": "SE",
+        "quantOfCities": 75
+    },
+    {
+        "name": "ES",
+        "quantOfCities": 78
+    },
+    {
+        "name": "AL",
+        "quantOfCities": 102
+    },
+    {
+        "name": "PA",
+        "quantOfCities": 143
+    },
+    {
+        "name": "TO",
+        "quantOfCities": 139
+    },
+    {
+        "name": "PE",
+        "quantOfCities": 185
+    },
+    {
+        "name": "PB",
+        "quantOfCities": 223
+    },
+    {
+        "name": "MA",
+        "quantOfCities": 217
+    },
+    {
+        "name": "GO",
+        "quantOfCities": 246
+    },
+    {
+        "name": "PI",
+        "quantOfCities": 223
+    },
+    {
+        "name": "SC",
+        "quantOfCities": 293
+    },
+    {
+        "name": "BA",
+        "quantOfCities": 417
+    },
+    {
+        "name": "PR",
+        "quantOfCities": 399
+    },
+    {
+        "name": "SP",
+        "quantOfCities": 645
+    },
+    {
+        "name": "MG",
+        "quantOfCities": 853
+    }
+]
