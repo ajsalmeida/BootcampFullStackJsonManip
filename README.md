@@ -6,18 +6,22 @@ Este é um projeto que utiliza um dos módulos de nodeJS para manipular arquivos
 Número de cidades de no estado de CE :184
 <hr>
 Estes são os 5 estados com mais cidades no Brasil<br>
-MG - 853<br>
-SP - 645<br>
-RS - 496<br>
-BA - 417<br>
-PR - 399<br>
+<code>
+MG - 853
+SP - 645
+RS - 496
+BA - 417
+PR - 399
+</code>
 <hr>
 Estes são os 5 estados com menos cidades no Brasil<br>
+<code>
 RO - 52<br>
 AC - 22<br>
 AP - 16<br>
 RR - 15<br>
 DF - 1<br>
+</code>
 <hr>
 <code>
 [
