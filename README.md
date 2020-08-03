@@ -19,7 +19,7 @@ AP - 16<br>
 RR - 15<br>
 DF - 1<br>
 <hr>
-```json
+
 [
   'Marechal Thaumaturgo - AC',
   'São Miguel dos Milagres - AL',
@@ -49,12 +49,12 @@ DF - 1<br>
   'Euclides da Cunha Paulista - SP',
   'Santa Terezinha do Tocantins - TO'
 ]
-```
+
 Cidade com o maior nome do Brasil: Barro Preto (antigo Gov. Lomanto Jr.) - BA
 <hr>
 [
-  'Feijó - AC',    'Belém - AL',<br>
-  'Apuí - AM',     'Cutias - AP',<br>
+  'Feijó - AC',    'Belém - AL',
+  'Apuí - AM',     'Cutias - AP',
   'Una - BA',      'Icó - CE',
   'Brasília - DF', 'Iúna - ES',
   'Caçu - GO',     'Codó - MA',
@@ -68,6 +68,5 @@ Cidade com o maior nome do Brasil: Barro Preto (antigo Gov. Lomanto Jr.) - BA
   'Arauá - SE',    'Itu - SP',
   'Pium - TO'
 ]
-</code>
-<br>
+
 Cidade com o menor nome do Brasil: Açu - RN
